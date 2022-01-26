@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/22 09:46:18.000.725,=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/22 09:46:59.000.340,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.dfm</Transaction>
+    <Transaction>2022/01/22 09:46:59.000.340,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.pas</Transaction>
+    <Transaction>2022/01/22 09:47:07.000.700,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\contacts_v2.dproj</Transaction>
+    <Transaction>2022/01/25 18:09:37.000.173,=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 18:10:00.000.469,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\Unit1.pas=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\splash.pas</Transaction>
+    <Transaction>2022/01/25 18:10:00.000.469,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\Unit1.dfm=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\splash.dfm</Transaction>
+    <Transaction>2022/01/25 18:17:23.000.992,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\splash.pas=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\mai.pas</Transaction>
+    <Transaction>2022/01/25 18:17:23.000.992,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\splash.dfm=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\mai.dfm</Transaction>
+    <Transaction>2022/01/25 18:19:53.000.535,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\t.pas=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.pas</Transaction>
+    <Transaction>2022/01/25 18:19:53.000.535,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\t.dfm=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.dfm</Transaction>
+    <Transaction>2022/01/25 18:19:59.000.590,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.dfm=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\mai.dfm</Transaction>
+    <Transaction>2022/01/25 18:19:59.000.590,C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\main.pas=C:\Users\paulo\Documents\projects\curso_delphi\contacts_v2\mai.pas</Transaction>
+  </Transactions>
+</BorlandProject>
