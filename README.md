@@ -5,6 +5,7 @@ Delphi application to manage a contact list
 ![image](https://user-images.githubusercontent.com/62629566/151154131-8ea15ecf-f048-4582-89f0-ff1fd45c77a9.png)
 
 It has new features such as:
+- Initial form, with a menu that leads to the contacts form;
 - Contact photo;
 - Search function;
 - Manually implemented tool bar.
